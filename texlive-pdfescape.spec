@@ -1,6 +1,6 @@
 Name:		texlive-pdfescape
 Version:	53082
-Release:	1
+Release:	2
 Summary:	Implements pdfTeX's escape features using TeX or e-TeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfescape
