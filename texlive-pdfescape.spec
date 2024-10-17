@@ -3,7 +3,7 @@ Version:	53082
 Release:	2
 Summary:	Implements pdfTeX's escape features using TeX or e-TeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pdfescape
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pdfescape
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfescape.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pdfescape.doc.r%{version}.tar.xz
